@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smart-pro/static/css/main.ff02f4b5.css",
+    "main.js": "/smart-pro/static/js/main.5610fbbf.js",
+    "static/js/453.3a93770c.chunk.js": "/smart-pro/static/js/453.3a93770c.chunk.js",
+    "index.html": "/smart-pro/index.html",
+    "main.ff02f4b5.css.map": "/smart-pro/static/css/main.ff02f4b5.css.map",
+    "main.5610fbbf.js.map": "/smart-pro/static/js/main.5610fbbf.js.map",
+    "453.3a93770c.chunk.js.map": "/smart-pro/static/js/453.3a93770c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.5610fbbf.js"
+  ]
+}
